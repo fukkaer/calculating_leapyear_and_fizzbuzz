@@ -8,3 +8,8 @@ Here's what I came up with in a few minutes to determine, whether it is a leapea
 - 4th, using (result).is_integer() to determine whether or not the returned number is whole or a decimal
 - 5th, using an if function to print whether or not it is currently a leap year.
 - came up with the idea to make this while reading reddit.
+- .
+- .
+- fizzbuzz in main file uses a "for x in range()" function, instead of a while function (that has a stored string)
+- I came up with alternative methods for calculating fizzbuzz, using stored integers (x = 1). 
+- all fizzbuzz methods print the same thing.
